@@ -1,2 +1,2 @@
-# Combinatoric_Construction_of_Combinations_of_the_Quadratic_Forms
+# Combinatoric Construction of Combinations of the Quadratic Forms
 YSU Bachelor Final Work

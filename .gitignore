@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# VISUAL STUDIO
+*/Debug
+*/.vs
+*.vcxproj*
+
+# YSU
+/YsuFinalWork
